@@ -8,6 +8,7 @@
   <modules>
     <module>java-ee-lesson-one</module>
       <module>java-spring-lesson-two</module>
+      <module>java-mvc-lesson-three</module>
   </modules>
 
   <properties>
