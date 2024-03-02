@@ -9,10 +9,13 @@
     <module>java-ee-lesson-one</module>
       <module>java-spring-lesson-two</module>
       <module>java-mvc-lesson-three</module>
+      <module>hibernate_block</module>
   </modules>
 
   <properties>
     <maven.compiler.source>11</maven.compiler.source>
     <maven.compiler.target>11</maven.compiler.target>
   </properties>
+
+
 </project>
